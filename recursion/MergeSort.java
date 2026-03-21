@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 //Divide and Merge
-
+//TC = O(N * log N)
 public class MergeSort {
 
     static void merge(ArrayList<Integer> arr, int low, int mid, int high){
