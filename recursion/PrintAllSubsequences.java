@@ -47,3 +47,5 @@ class PrintAllSubsequence{
     }
 }
 
+// TC = 2^n * n
+// SC = O(n)
