@@ -1,4 +1,4 @@
-package practicejava.arraylist;
+package Arraylist;
 
 import java.util.ArrayList;
 
@@ -27,13 +27,14 @@ public class RunningSumOf1dArray {
         int [] arr = {1,2,3,4};
         int [] arr2 = runningSumWithoutArrayList(arr);
         for(int i:arr2){
-            System.out.println(i+" ");
+            System.out.print(i+" ");
         }
+        System.out.println();
         System.out.println("--------------------------");
         int [] arr3 = runningSumWithArrayList(arr);
     
         for(int i:arr3){
-            System.out.println(i+" ");
+            System.out.print(i+" ");
         }
 
     }
