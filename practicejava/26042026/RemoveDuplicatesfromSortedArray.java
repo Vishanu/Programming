@@ -1,4 +1,4 @@
-//26. Remove Duplicates from Sorted Array
+//26. Remove Duplicates from Sorted Array 
 
 class Solution {
     public int removeDuplicates(int[] nums) {
@@ -13,5 +13,7 @@ class Solution {
     }
 }
 public class RemoveDuplicatesfromSortedArray{
-
+    public static void main(String[] args) {
+        
+    }
 }
